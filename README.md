@@ -2,16 +2,12 @@
 <h3 align="center">Desenvolvedor Front-End</h3>
 
 🧑‍💻 Sobre mim
+
 - 🎓 Formado no curso técnico de Tecnologia em Sistemas para Internet e atualmente graduando em Sistemas para Web 
 - 📱 Focado em desenvolvimento Front-End e Back-End
 - 🚀 Em busca de oportunidades para crescer na área de desenvolvimento e contribuir em projetos desafiadores
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamtheuzzz&label=Profile%20views&color=0e75b6&style=flat" alt="iamtheuzzz" /> </p>
-
 - 🌱 Eu estou aprendendo sobre **Java**
-
 - 💬 Me pergunte sobre **HTML** ou **CSS**
-
 - 📫 Entrar em contato **matheusaa444@gmail.com**
 
 <h3 align="left">Conecte-se comigo:</h3>
