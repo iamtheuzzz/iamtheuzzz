@@ -8,7 +8,7 @@
 - 🚀 Em busca de oportunidades para crescer na área de desenvolvimento e contribuir em projetos desafiadores
 - 🌱 Eu estou aprendendo sobre **Java**
 - 💬 Me pergunte sobre **HTML** ou **CSS**
-- 📫 Entrar em contato **matheusaa444@gmail.com**
+- 📫 Entrar em contato pelo LinkedIn: <a href= "https://linkedin.com/in/www.linkedin.com/in/matheus-alves-assunção-3a9727327"></a> ou Email: <a href= "https://linkedin.com/in/www.linkedin.com/in/matheus-alves-assunção-3a9727327"></a>
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
