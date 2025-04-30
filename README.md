@@ -1,4 +1,4 @@
-<h1 align="center">Olá👋,Eu sou Matheus Alves</h1>
+<h1 align="center">Olá, eu sou Matheus Alves</h1>
 <h3 align="center">Desenvolvedor Front-End Júnior</h3>
 
 🧑‍💻 Sobre mim
