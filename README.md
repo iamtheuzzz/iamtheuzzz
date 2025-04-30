@@ -1,11 +1,11 @@
-<h1 align="center">Olá👋,Eu sou Matheus</h1>
-<h3 align="center">Desenvolvedor Iniciante em Html</h3>
+<h1 align="center">Olá👋,Eu sou Matheus Alves</h1>
+<h3 align="center">Desenvolvedor Front-End</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamtheuzzz&label=Profile%20views&color=0e75b6&style=flat" alt="iamtheuzzz" /> </p>
 
 - 🌱 Eu estou aprendendo sobre **Java**
 
-- 💬 Me pergunte sobre **Html, Css**
+- 💬 Me pergunte sobre **HTML** ou **CSS**
 
 - 📫 Entrar em contato **matheusaa444@gmail.com**
 
