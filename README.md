@@ -4,7 +4,7 @@
 🧑‍💻 Sobre mim
 
 - 🎓 Formado no curso técnico de Tecnologia em Sistemas para Internet e atualmente graduando em Sistemas para Web 
-- 📱 Focado em desenvolvimento Front-End e Back-End
+- 📱 Focado em desenvolvimento Front-End
 - 🚀 Em busca de oportunidades para crescer na área de desenvolvimento e contribuir em projetos desafiadores
 - 🌱 Eu estou aprendendo sobre **Java**
 - 💬 Me pergunte sobre **HTML** ou **CSS**
